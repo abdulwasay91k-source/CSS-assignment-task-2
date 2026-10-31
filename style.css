@@ -69,24 +69,6 @@ p {
     width: 50%;
 }
 
-@media (max-width: 600px) {
-    .container {
-        flex-direction: column;
-    }
-
-    .left, .center, .right {
-        width: 100%;
-        border: none;
-    }
-
-    .logo {
-        font-size: 28px;
-    }
-
-    nav a {
-        display: inline-block;
-    }
-}
 
 
 
